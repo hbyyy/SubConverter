@@ -3,3 +3,5 @@
 *__pycache_
 /pyproject.toml
 /poetry.lock
+/notebook_files
+/testsubfiles
