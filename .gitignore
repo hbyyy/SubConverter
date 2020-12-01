@@ -5,3 +5,5 @@
 /poetry.lock
 /notebook_files
 /testsubfiles
+*.idea
+*.ipynb_checkpoints
