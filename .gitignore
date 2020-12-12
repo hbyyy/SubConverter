@@ -1,9 +1,9 @@
 /.python_version
 /.git
-*__pycache_
 /pyproject.toml
 /poetry.lock
 /notebook_files
 /testsubfiles
+*__pycache__
 *.idea
 *.ipynb_checkpoints
